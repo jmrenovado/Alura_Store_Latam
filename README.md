@@ -28,4 +28,4 @@
 
 ## Autor
 
-[Jhon Jame Muñoz Valencia 'Jmrenovado']
+[Jhon Jame Muñoz Valencia  ('Jmrenovado')]
